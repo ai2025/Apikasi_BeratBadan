@@ -1,4 +1,4 @@
-# Apikasi_BeratBadan
+# Aplikasi_BeratBadan
 
 Screenshoot
 
