@@ -4,7 +4,7 @@ Screenshoot
 
 Hasil 1
 
-![ScreenShoot](https://github.com/ai2025/Apikasi_BeratBadan/blob/master/Berat.PNG "")
+![ScreenShoot](https://github.com/ai2025/Apikasi_BeratBadan/blob/master/berat.PNG "")
 
 * Nama : Aisyatush Shofiah
 * Kelas : XIRPL2
